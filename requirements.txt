@@ -1,0 +1,7 @@
+# requirements.txt
+fastapi
+pydantic
+httpx
+python-multipart
+uvicorn
+gunicorn  # საჭიროა Render-ზე FastAPI-ის გასაშვებად
