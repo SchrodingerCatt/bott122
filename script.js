@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000/chat/send-message";
+const API_URL = "https://bott122-2.onrender.com/chat/send-message";
 
 async function sendMessage() {
   const input = document.getElementById("userInput");
